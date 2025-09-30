@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\ControllersAndActions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D63EE05-20FE-42B9-82BE-D94AFE8A1694}|ControllersAndActions\\ControllersAndActions.csproj|c:\\projects\\dot net\\controllersandactions\\controllersandactions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D63EE05-20FE-42B9-82BE-D94AFE8A1694}|ControllersAndActions\\ControllersAndActions.csproj|solutionrelative:controllersandactions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D63EE05-20FE-42B9-82BE-D94AFE8A1694}|ControllersAndActions\\ControllersAndActions.csproj|c:\\projects\\dot net\\controllersandactions\\controllersandactions\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D63EE05-20FE-42B9-82BE-D94AFE8A1694}|ControllersAndActions\\ControllersAndActions.csproj|solutionrelative:controllersandactions\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D63EE05-20FE-42B9-82BE-D94AFE8A1694}|ControllersAndActions\\ControllersAndActions.csproj|c:\\projects\\dot net\\controllersandactions\\controllersandactions\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D63EE05-20FE-42B9-82BE-D94AFE8A1694}|ControllersAndActions\\ControllersAndActions.csproj|solutionrelative:controllersandactions\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D63EE05-20FE-42B9-82BE-D94AFE8A1694}|ControllersAndActions\\ControllersAndActions.csproj|c:\\projects\\dot net\\controllersandactions\\controllersandactions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D63EE05-20FE-42B9-82BE-D94AFE8A1694}|ControllersAndActions\\ControllersAndActions.csproj|solutionrelative:controllersandactions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ControllersAndActions\\ControllersAndActions\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndActions\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\ControllersAndActions\\ControllersAndActions\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ControllersAndActions\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T16:56:39.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ControllersAndActions\\ControllersAndActions\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndActions\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\ControllersAndActions\\ControllersAndActions\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ControllersAndActions\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T16:09:46.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ControllersAndActions\\ControllersAndActions\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControllersAndActions\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ControllersAndActions\\ControllersAndActions\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ControllersAndActions\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:49:01.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ControllersAndActions\\ControllersAndActions\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndActions\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\ControllersAndActions\\ControllersAndActions\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ControllersAndActions\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T14:12:30.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

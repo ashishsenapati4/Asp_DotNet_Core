@@ -1,0 +1,114 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    // Layout = "~/Views/Shared/_Layout.cshtml";
+    Layout = null;
+}
+
+<h1>This is my Index Page.</h1>
+
+@* 
+<h1>Index!!</h1>
+<h1>Current Date and Time is @DateTime.Now</h1>
+<h1>Current Year is @DateTime.Now.Year</h1>
+
+@{
+    var name = "Ashish Senapati";
+    var ageOld = 23;
+}
+<h2>My Name is @name and age is @ageOld</h2>
+
+<h1>Check Eligibility for drinking</h1>
+
+@{
+    var age = 23;
+    if(age > 18)
+    {
+        <h2>Eligible. Age is @age</h2>
+    }
+    else
+    {
+        <h2>Not Eligible. Age is @age</h2>
+    }
+
+}
+
+@{
+    for (int i = 0; i < 10; i++)
+    {
+        <h2>Value of i is : @i</h2>
+    }
+}
+
+@{
+    string[] arr = {"Ashish", "Kumar", "Senapati"};
+    foreach (var item in arr)
+    {
+       <h2>@item</h2>
+    }
+} *@
+
+@* <h2 style="font-weight:bold">Using ViewData Here</h2>
+
+<h2>@ViewData["name"]</h2>
+<br />
+<h2>age is @ViewData["age"]</h2>
+<br />
+<h2>Current Date is: @ViewData["currentDate"]</h2>
+
+
+
+@{
+    <h1 style="font-weight:bold; color:red">Temples from Odisha</h1>
+
+    foreach(var temple in (string[])ViewData["temples"])
+    {
+        <h2>@temple</h2>
+    }
+
+    <h1 style="font-weight:bold; color:green">Listing Some Games</h1>
+    foreach(var game in (List<String>)ViewData["games"])
+    {
+        <h2>@game</h2>
+    }
+} *@
+
+@* <h2 style="font-weight:bold">Using ViewBag Here</h2>
+
+<h2>@ViewBag.name</h2>
+<br />
+<h2>age is @ViewBag.age</h2>
+<br />
+<h2>Current Date is: @ViewBag.currentDate</h2>
+<br />
+<h2>My crush is @ViewBag.myCrush</h2>
+<br />
+<h1>Sisters name is @ViewData["name"]</h1>
+
+
+
+@{
+    <h1 style="font-weight:bold; color:red">Temples from Odisha</h1>
+
+    foreach (var temple in ViewBag.temples)
+    {
+        <h2>@temple</h2>
+    }
+
+    <h1 style="font-weight:bold; color:green">Listing Some Games</h1>
+    foreach (var game in ViewBag.games)
+    {
+        <h2>@game</h2>
+    }
+} *@
+<h2>@ViewData["data1"]</h2>
+<h2>@ViewBag.data2</h2>
+<h2>@TempData["data3"]</h2>
+@* @{
+    if(TempData["data4"] != null)
+    {
+        foreach(var game in (List<string>)TempData["data4"])
+        {
+            <h2>@game</h2>
+        }
+    }
+} *@
