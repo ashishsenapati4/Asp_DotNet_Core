@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\LoginFormAsp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|c:\\projects\\dot net\\loginformasp6\\loginformasp6\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|solutionrelative:loginformasp6\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|c:\\projects\\dot net\\loginformasp6\\loginformasp6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|solutionrelative:loginformasp6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|c:\\projects\\dot net\\loginformasp6\\loginformasp6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|solutionrelative:loginformasp6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|c:\\projects\\dot net\\loginformasp6\\loginformasp6\\models\\usrtbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|solutionrelative:loginformasp6\\models\\usrtbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|c:\\projects\\dot net\\loginformasp6\\loginformasp6\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|solutionrelative:loginformasp6\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|c:\\projects\\dot net\\loginformasp6\\loginformasp6\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|solutionrelative:loginformasp6\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|c:\\projects\\dot net\\loginformasp6\\loginformasp6\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|solutionrelative:loginformasp6\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|c:\\projects\\dot net\\loginformasp6\\loginformasp6\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|solutionrelative:loginformasp6\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|c:\\projects\\dot net\\loginformasp6\\loginformasp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|solutionrelative:loginformasp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|c:\\projects\\dot net\\loginformasp6\\loginformasp6\\loginformasp6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|solutionrelative:loginformasp6\\loginformasp6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|c:\\projects\\dot net\\loginformasp6\\loginformasp6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56301296-D969-40EA-BBCC-C592E3D3BBD7}|LoginFormAsp6\\LoginFormAsp6.csproj|solutionrelative:loginformasp6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Views\\Home\\Display.cshtml",
+              "RelativeDocumentMoniker": "LoginFormAsp6\\Views\\Home\\Display.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Views\\Home\\Display.cshtml",
+              "RelativeToolTip": "LoginFormAsp6\\Views\\Home\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T14:22:06.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "LoginFormAsp6\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "LoginFormAsp6\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T13:42:54.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "LoginFormAsp6\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "LoginFormAsp6\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T08:04:19.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LoginFormAsp6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LoginFormAsp6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T07:41:52.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "LoginFormAsp6\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "LoginFormAsp6\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T07:41:06.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginFormAsp6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginFormAsp6\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:37:27.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginFormAsp6\\appsettings.json",
+              "ToolTip": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\appsettings.json",
+              "RelativeToolTip": "LoginFormAsp6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-23T07:19:48.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginFormAsp6.csproj",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\LoginFormAsp6.csproj",
+              "RelativeDocumentMoniker": "LoginFormAsp6\\LoginFormAsp6.csproj",
+              "ToolTip": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\LoginFormAsp6.csproj",
+              "RelativeToolTip": "LoginFormAsp6\\LoginFormAsp6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-23T07:08:56.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsrTbl.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Models\\UsrTbl.cs",
+              "RelativeDocumentMoniker": "LoginFormAsp6\\Models\\UsrTbl.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Models\\UsrTbl.cs",
+              "RelativeToolTip": "LoginFormAsp6\\Models\\UsrTbl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:14:22.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Models\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "LoginFormAsp6\\Models\\MyDBContext.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Models\\MyDBContext.cs",
+              "RelativeToolTip": "LoginFormAsp6\\Models\\MyDBContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAvwC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:14:10.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Program.cs",
+              "RelativeDocumentMoniker": "LoginFormAsp6\\Program.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\LoginFormAsp6\\LoginFormAsp6\\Program.cs",
+              "RelativeToolTip": "LoginFormAsp6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:04:38.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
