@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DDLAspCore6/1.0.0": {
+        "runtime": {
+          "DDLAspCore6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDLAspCore6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
