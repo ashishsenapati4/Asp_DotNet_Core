@@ -1,0 +1,137 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Enter FirstName</label>
+                <input type="text" class="form-control" id="firstname" placeholder="First Name">
+            </div>
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Enter Lastname</label>
+                <input type="text" class="form-control" id="lastname" placeholder="Last Name">
+            </div>
+            <br />
+            <button class="btn btn-info" onclick="Display()">Submit</button>
+            <br />
+            <h3 id="result"></h3>
+        </div>
+
+        <div class="col-md-6">
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Enter num1</label>
+                <input type="text" class="form-control" id="num1" placeholder="num1">
+            </div>
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Enter num2</label>
+                <input type="text" class="form-control" id="num2" placeholder="num2">
+            </div>
+            <br />
+            <button class="btn btn-info" onclick="DisplayAddRes()">Add</button>
+
+            <button class="btn btn-info" onclick="DisplaySubRes()">Sub</button>
+
+            <button class="btn btn-info" onclick="Calculate()">Calculate</button>
+            <br />
+            <h3 id="result2"></h3>
+        </div>
+    </div>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<script type="text/javascript">
+    // $(document).ready(function()
+    // {
+    //     alert("Hello from Ashish.")
+    // });
+
+    function Display()
+    {
+        var fName = $("#firstname").val();
+        var lName = $("#lastname").val();
+
+        var res = fName+" "+lName;
+
+        $("#result").text(res);
+
+    }
+
+    function DisplayAddRes()
+    {
+        var num1 = parseInt($("#num1").val(), 10);
+        var num2 = parseInt($("#num2").val(), 10);
+
+
+
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("Add")',
+            data: {n1:num1, n2:num2},
+            dataType:'text',
+            success: function (data, status, xhr){
+                $("#result2").text(data);
+            },
+            error: function(req, status, error){
+                $("#result2").text(error);
+            }
+
+        });
+
+
+    }
+
+    function DisplaySubRes()
+    {
+        var num1 = parseInt($("#num1").val(), 10);
+        var num2 = parseInt($("#num2").val(), 10);
+
+
+
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("Subtract")',
+            data: {n1:num1, n2:num2},
+            dataType:'text',
+            success: function (data, status, xhr){
+                $("#result2").text(data);
+            },
+            error: function(req, status, error){
+                $("#result2").text(error);
+            }
+
+        });
+
+
+    }
+
+    function Calculate()
+    {
+        var num1 = parseInt($("#num1").val(), 10)
+        var num2 = parseInt($("#num2").val(), 10)
+
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("Calculate")',
+            data: {n1:num1, n2:num2},
+            dataType: 'json',
+            success: function(resp, status, xhr){
+                var data = "Addition result is: "+resp.add+"<br> Subtraction result is: "+resp.sub+"<br> Multiplication result is: "+resp.mul+"<br> Division result is: "+resp.div;
+                $("#result2").html(data);
+            },
+            error: function(req, status, error){
+                $("#result2").text(error);
+            }
+        });
+    }
+
+</script>
