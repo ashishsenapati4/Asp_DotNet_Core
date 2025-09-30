@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\RoutingWithMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{255454B7-79E4-4379-A3B2-A0CCDBD6319A}|RoutingWithMVC\\RoutingWithMVC.csproj|c:\\projects\\dot net\\routingwithmvc\\routingwithmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255454B7-79E4-4379-A3B2-A0CCDBD6319A}|RoutingWithMVC\\RoutingWithMVC.csproj|solutionrelative:routingwithmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255454B7-79E4-4379-A3B2-A0CCDBD6319A}|RoutingWithMVC\\RoutingWithMVC.csproj|c:\\projects\\dot net\\routingwithmvc\\routingwithmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255454B7-79E4-4379-A3B2-A0CCDBD6319A}|RoutingWithMVC\\RoutingWithMVC.csproj|solutionrelative:routingwithmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255454B7-79E4-4379-A3B2-A0CCDBD6319A}|RoutingWithMVC\\RoutingWithMVC.csproj|c:\\projects\\dot net\\routingwithmvc\\routingwithmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{255454B7-79E4-4379-A3B2-A0CCDBD6319A}|RoutingWithMVC\\RoutingWithMVC.csproj|solutionrelative:routingwithmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\RoutingWithMVC\\RoutingWithMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RoutingWithMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\RoutingWithMVC\\RoutingWithMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "RoutingWithMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T05:38:50.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\RoutingWithMVC\\RoutingWithMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RoutingWithMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\RoutingWithMVC\\RoutingWithMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RoutingWithMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:50:27.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\RoutingWithMVC\\RoutingWithMVC\\Program.cs",
+              "RelativeDocumentMoniker": "RoutingWithMVC\\Program.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\RoutingWithMVC\\RoutingWithMVC\\Program.cs",
+              "RelativeToolTip": "RoutingWithMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:05:04.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
