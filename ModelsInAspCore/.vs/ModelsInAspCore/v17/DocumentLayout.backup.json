@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\ModelsInAspCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|c:\\projects\\dot net\\modelsinaspcore\\modelsinaspcore\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|solutionrelative:modelsinaspcore\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|c:\\projects\\dot net\\modelsinaspcore\\modelsinaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|solutionrelative:modelsinaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|c:\\projects\\dot net\\modelsinaspcore\\modelsinaspcore\\repository\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|solutionrelative:modelsinaspcore\\repository\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|c:\\projects\\dot net\\modelsinaspcore\\modelsinaspcore\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|solutionrelative:modelsinaspcore\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|c:\\projects\\dot net\\modelsinaspcore\\modelsinaspcore\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|solutionrelative:modelsinaspcore\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|c:\\projects\\dot net\\modelsinaspcore\\modelsinaspcore\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|solutionrelative:modelsinaspcore\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|c:\\projects\\dot net\\modelsinaspcore\\modelsinaspcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|solutionrelative:modelsinaspcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|c:\\projects\\dot net\\modelsinaspcore\\modelsinaspcore\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|solutionrelative:modelsinaspcore\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|c:\\projects\\dot net\\modelsinaspcore\\modelsinaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23ED203D-BA13-4C6D-A0D3-6A9DF2E4AD15}|ModelsInAspCore\\ModelsInAspCore.csproj|solutionrelative:modelsinaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "ModelsInAspCore\\Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "ModelsInAspCore\\Repository\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:38:38.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Repository\\IBook.cs",
+              "RelativeDocumentMoniker": "ModelsInAspCore\\Repository\\IBook.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Repository\\IBook.cs",
+              "RelativeToolTip": "ModelsInAspCore\\Repository\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:36:27.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "ModelsInAspCore\\Models\\BookModel.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Models\\BookModel.cs",
+              "RelativeToolTip": "ModelsInAspCore\\Models\\BookModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:34:48.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "ModelsInAspCore\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "ModelsInAspCore\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:35:53.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Repository\\IStudent.cs",
+              "RelativeDocumentMoniker": "ModelsInAspCore\\Repository\\IStudent.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Repository\\IStudent.cs",
+              "RelativeToolTip": "ModelsInAspCore\\Repository\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:34:06.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelsInAspCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelsInAspCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:28:01.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ModelsInAspCore\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ModelsInAspCore\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:16:30.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelsInAspCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ModelsInAspCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T15:32:26.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "ModelsInAspCore\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ModelsInAspCore\\ModelsInAspCore\\Models\\StudentModel.cs",
+              "RelativeToolTip": "ModelsInAspCore\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:26:51.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
