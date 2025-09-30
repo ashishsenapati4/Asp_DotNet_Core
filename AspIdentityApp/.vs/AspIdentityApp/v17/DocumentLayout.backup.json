@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\AspIdentityApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|c:\\projects\\dot net\\aspidentityapp\\aspidentityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|solutionrelative:aspidentityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|c:\\projects\\dot net\\aspidentityapp\\aspidentityapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|solutionrelative:aspidentityapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|c:\\projects\\dot net\\aspidentityapp\\aspidentityapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|solutionrelative:aspidentityapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|c:\\projects\\dot net\\aspidentityapp\\aspidentityapp\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|solutionrelative:aspidentityapp\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|c:\\projects\\dot net\\aspidentityapp\\aspidentityapp\\areas\\identity\\data\\identitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|solutionrelative:aspidentityapp\\areas\\identity\\data\\identitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|c:\\projects\\dot net\\aspidentityapp\\aspidentityapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|solutionrelative:aspidentityapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|c:\\projects\\dot net\\aspidentityapp\\aspidentityapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|solutionrelative:aspidentityapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|c:\\projects\\dot net\\aspidentityapp\\aspidentityapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|solutionrelative:aspidentityapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|c:\\projects\\dot net\\aspidentityapp\\aspidentityapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8B9775E5-D776-4363-85D8-1615DB15851E}|AspIdentityApp\\AspIdentityApp.csproj|solutionrelative:aspidentityapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "AspIdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "AspIdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAawKoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:24:33.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AspIdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "AspIdentityApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T16:23:20.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AspIdentityApp\\appsettings.json",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\appsettings.json",
+              "RelativeToolTip": "AspIdentityApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-17T15:50:47.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\Program.cs",
+              "RelativeDocumentMoniker": "AspIdentityApp\\Program.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\Program.cs",
+              "RelativeToolTip": "AspIdentityApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:30:24.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspIdentityApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspIdentityApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T15:27:13.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AspIdentityApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AspIdentityApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T15:24:01.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdentityDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\Areas\\Identity\\Data\\IdentityDbContext.cs",
+              "RelativeDocumentMoniker": "AspIdentityApp\\Areas\\Identity\\Data\\IdentityDbContext.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\Areas\\Identity\\Data\\IdentityDbContext.cs",
+              "RelativeToolTip": "AspIdentityApp\\Areas\\Identity\\Data\\IdentityDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:18:01.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AspIdentityApp\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "AspIdentityApp\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:17:53.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AspIdentityApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspIdentityApp\\AspIdentityApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AspIdentityApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-17T15:17:43.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
