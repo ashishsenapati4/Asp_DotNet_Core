@@ -1,0 +1,20 @@
+﻿<Window x:Class="WPFTutorial.DataBindingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFTutorial"
+        mc:Ignorable="d"
+        Title="DataBindingWindow" Height="250" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBox x:Name="txtInput" FontSize="16" Width="250" Height="40" Text="{Binding BindText, UpdateSourceTrigger=PropertyChanged, Mode=OneWayToSource}"/>
+        <Button Grid.Row="1" x:Name="btnSet" FontSize="16" Content="Set" Width="100" Height="40" Click="btnSet_Click"></Button>
+        <TextBlock Grid.Row="2" x:Name="tbResult" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding BindText}"/>
+    </Grid>
+</Window>
